@@ -24,6 +24,7 @@ firmware and tools for bluetooth
 %package TM1
 Summary:    TM1 firmware and tools for bluetooth
 Group:      TO_BE/FILLED
+Provides:   bluetooth-scripts
 
 %description TM1
 firmware and tools for bluetooth for TM1
