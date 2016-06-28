@@ -1,4 +1,5 @@
 #!/bin/sh
+PATH=/bin:/usr/bin:/sbin:/usr/sbin
 
 BT_UART_DEVICE=/dev/ttyS0
 BT_CHIP_TYPE=sprd
